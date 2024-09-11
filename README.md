@@ -1,3 +1,3 @@
 # igreen724.github.io
-This is my college website for CS. 
+Hello, world! This is my college website for CS. 
 
